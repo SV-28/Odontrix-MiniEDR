@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ✅ Global reusable form styling */
+@layer components {
+  .input-box {
+    @apply border border-gray-300 rounded-lg w-full p-2 focus:ring focus:ring-blue-300 focus:outline-none;
+  }
+  .form-card {
+    @apply bg-white shadow-md rounded-xl p-6 max-w-3xl space-y-4;
+  }
+  .form-title {
+    @apply text-2xl font-semibold text-blue-600 mb-2;
+  }
+  .primary-btn {
+    @apply bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition;
+  }
+}
+
