@@ -97,9 +97,13 @@ Designed using normalized relational modeling aligned with real dental workflows
 
 ## Why This Project Matters
 This project demonstrates:
+
 Real-world healthcare data modeling
+
 EDR / EHR-style system thinking
+
 Integration of AI with clinical workflows
+
 Ability to bridge clinical knowledge + technical skills
 
 ## Author
