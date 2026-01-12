@@ -30,5 +30,3 @@ Odontirx-MiniEDR/
    - npm install
    - npm start
 
-This project is built for learning using synthetic data only.
-
