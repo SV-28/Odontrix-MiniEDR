@@ -71,6 +71,8 @@ Upcoming appointments monitoring
 | Tools | GitHub, DBeaver, VS Code |
 
 ## Project Structure
+
+```
 Odontirx-MiniEDR/
 │
 ├── mini-edr-frontend/ # React frontend
@@ -88,12 +90,14 @@ Odontirx-MiniEDR/
 │ ├── notebooks/
 │ ├── models/
 │ ├── train.py
-│ └── requirements.txt
+│ └── results.txt
 │
 ├── database/
 │ └── schema.sql # MySQL database schema
 │
 └── README.md
+```
+---
 
 ## Machine Learning Module
 Input Features: 
