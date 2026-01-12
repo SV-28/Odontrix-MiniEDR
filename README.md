@@ -1,4 +1,4 @@
- ## Odontirx – AI-Enabled Mini Electronic Dental Record (Mini-EDR)
+ ## Odontrix – AI-Enabled Mini Electronic Dental Record (Mini-EDR)
 
 An AI-driven Electronic Dental Record (EDR) system integrating clinical dental workflows, relational databases, and machine-learning–based oral cancer risk prediction.
 Designed to demonstrate real-world healthcare informatics, clinical data modeling, and decision-support systems.
